@@ -4,7 +4,7 @@ from typing import List, Optional
 
 app = FastAPI()
 
-items = ["book","pen","paper"]
+items = [100,"pen","gelpen",10.50,true]
 
 class Item(BaseModel):
     id: int
