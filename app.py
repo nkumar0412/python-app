@@ -39,7 +39,4 @@ def delete_item(item_id: int):
     items = [item for item in items if item.id != item_id]
     return {"message": f"Item {item_id} deleted"}
 
-# Run with: python myapi.py
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run("get_api_data:app", port=8080, reload=True)
+
