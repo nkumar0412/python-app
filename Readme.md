@@ -1,0 +1,1 @@
+[![Build and deploy Python app to Azure Web App - pyappxnjsbxsj](https://github.com/nkumar0412/python-app/actions/workflows/dev_pyappxnjsbxsj(dev).yml/badge.svg)](https://github.com/nkumar0412/python-app/actions/workflows/dev_pyappxnjsbxsj(dev).yml)
